@@ -13,11 +13,6 @@ Features include:
 * Schedule updating your library for new chapters
 * Create backups locally to read offline or to your desired cloud service
 
-## Download
-Get the app from our [releases page](https://github.com/tachiyomiorg/tachiyomi/releases).
-
-If you want to try new features before they get to the stable release, you can download the preview version [here](https://github.com/tachiyomiorg/tachiyomi-preview/releases).
-
 ## Issues, Feature Requests and Contributing
 
 Please make sure to read the full guidelines. Your issue may be closed without warning if you do not.
